@@ -1,0 +1,78 @@
+.reminder-container{
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  max-width: 500px;
+  align-content: center;
+  margin-right: auto;
+  margin-left: auto;
+
+  
+}
+.reminder-header{
+    margin-top: 35%;
+
+}
+.reminder-header .firstChild{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.secondChild{
+    padding: 5px;
+
+}
+.reminder-image{
+    max-width: 350px;
+}
+.btn-link{
+    text-decoration: none;
+    background-color: #fd2959;
+    padding: 10px 90px;
+    color: white;
+    font-weight: 600;
+
+
+}
+.btn{
+    padding: 30px;
+}
+/* .firstWriteUp {
+  color: #21334f;
+  flex-shrink: 0;
+  font-family: Inter, "Source Sans Pro";
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  margin-bottom: 2.4rem;
+  max-width: 58rem;
+  text-align: center;
+} */
+/* .secondWriteUp {
+  color: #21334f;
+  flex-shrink: 0;
+  font-family: Inter, "Source Sans Pro";
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+} */
+/* .btn {
+  align-items: center;
+  background-color: #fd2959;
+  color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  flex-shrink: 0;
+  font-family: Inter, "Source Sans Pro";
+  font-size: 1.4rem;
+  font-weight: 600;
+  height: 4.8rem;
+  justify-content: center;
+  line-height: 1.2125;
+  margin: 0 4.1rem;
+  white-space: nowrap;
+  width: calc(100% - 8.2rem);
+} */
